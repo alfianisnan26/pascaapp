@@ -1,4 +1,4 @@
-package id.pascaapp.android.app.pascaapp;
+package id.pascaapp.mobile.app.pascaapp;
 
 import io.flutter.embedding.android.FlutterActivity;
 

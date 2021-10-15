@@ -1,6 +1,6 @@
 # pascaapp
 
-PascaApp Project from pascaapp.id
+pascaapp.id
 
 ## Getting Started
 
